@@ -126,7 +126,7 @@ export function useGame() {
         setPhase('playing')
         drawNextPair(newRound)
       }
-    }, 2200)
+    }, 3200)
   }, [pair, shelf, round, sharpPicks, mode, drawNextPair])
 
   const skip = useCallback(() => {

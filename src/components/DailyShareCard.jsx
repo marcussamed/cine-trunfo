@@ -4,18 +4,17 @@ import { getDailyNumber } from '../seed'
 import { t } from '../i18n'
 
 const DailyShareCard = forwardRef(function DailyShareCard(
-  { winner, playerSum, rivalSum, sharpPicks, sharpCount, streak, lang },
+  { winner, playerSum, rivalSum, sharpPicks, sharpCount, streak, lang, logoDataUri },
   ref,
 ) {
   const isWin = winner === 'player'
   const dailyNum = getDailyNumber(theme.dailyEpoch)
 
-  const pickColors = {
-    sharp: { bg: 'rgba(0,255,136,0.15)', border: 'rgba(0,255,136,0.5)' },
-    miss: { bg: 'rgba(255,225,86,0.15)', border: 'rgba(255,225,86,0.5)' },
-    timeout: { bg: 'rgba(255,68,68,0.1)', border: 'rgba(255,68,68,0.35)' },
+  const pickSolidColors = {
+    sharp: '#00ff88',
+    miss: '#ffe156',
+    timeout: '#3a3a4a',
   }
-  const pickEmoji = { sharp: '🟩', miss: '🟨', timeout: '⬛' }
 
   return (
     <div
@@ -37,7 +36,7 @@ const DailyShareCard = forwardRef(function DailyShareCard(
       }}
     >
       <img
-        src={theme.logo.url}
+        src={logoDataUri || theme.logo.url}
         alt="DDL"
         crossOrigin="anonymous"
         style={{ width: 180, height: 180, marginBottom: 40 }}
@@ -106,10 +105,10 @@ const DailyShareCard = forwardRef(function DailyShareCard(
         </div>
       </div>
 
-      {/* Sharp picks grid — uniform squares */}
+      {/* Sharp picks grid — solid squares */}
       <div style={{
         display: 'flex',
-        gap: 14,
+        gap: 18,
         justifyContent: 'center',
         marginBottom: 20,
       }}>
@@ -120,16 +119,9 @@ const DailyShareCard = forwardRef(function DailyShareCard(
               width: 72,
               height: 72,
               borderRadius: 10,
-              display: 'flex',
-              alignItems: 'center',
-              justifyContent: 'center',
-              fontSize: 40,
-              background: pickColors[pick].bg,
-              border: `2px solid ${pickColors[pick].border}`,
+              background: pickSolidColors[pick],
             }}
-          >
-            {pickEmoji[pick]}
-          </div>
+          />
         ))}
       </div>
 
