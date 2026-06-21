@@ -1,4 +1,4 @@
-import { useRef, useState, useCallback, useEffect } from 'react'
+import { useRef, useState, useCallback } from 'react'
 import html2canvas from 'html2canvas'
 import { theme } from '../theme'
 import { getDailyNumber } from '../seed'
@@ -61,22 +61,7 @@ export default function ResultScreen({
   const isDaily = mode === 'daily'
   const shareRef = useRef(null)
   const [sharing, setSharing] = useState(false)
-  const [logoDataUri, setLogoDataUri] = useState(null)
   const dailyNum = getDailyNumber(theme.dailyEpoch)
-
-  useEffect(() => {
-    if (!isDaily) return
-    const img = new Image()
-    img.crossOrigin = 'anonymous'
-    img.onload = () => {
-      const canvas = document.createElement('canvas')
-      canvas.width = img.naturalWidth
-      canvas.height = img.naturalHeight
-      canvas.getContext('2d').drawImage(img, 0, 0)
-      try { setLogoDataUri(canvas.toDataURL('image/png')) } catch {}
-    }
-    img.src = theme.logo.url
-  }, [isDaily])
 
   const gridEmoji = sharpPicks.map(p =>
     p === 'sharp' ? '🟩' : p === 'miss' ? '🟨' : '⬛'
@@ -90,6 +75,8 @@ export default function ResultScreen({
     if (!shareRef.current || sharing) return
     setSharing(true)
     try {
+      const imgs = shareRef.current.querySelectorAll('img')
+      await Promise.all([...imgs].map(img => img.decode().catch(() => {})))
       const canvas = await html2canvas(shareRef.current, {
         width: 1080,
         height: 1920,
@@ -139,7 +126,6 @@ export default function ResultScreen({
           sharpCount={sharpCount}
           streak={stats.currentStreak}
           lang={lang}
-          logoDataUri={logoDataUri}
         />
       )}
 

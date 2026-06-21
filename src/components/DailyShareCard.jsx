@@ -2,9 +2,10 @@ import { forwardRef } from 'react'
 import { theme } from '../theme'
 import { getDailyNumber } from '../seed'
 import { t } from '../i18n'
+import { LOGO_DATA_URI } from '../logoBase64'
 
 const DailyShareCard = forwardRef(function DailyShareCard(
-  { winner, playerSum, rivalSum, sharpPicks, sharpCount, streak, lang, logoDataUri },
+  { winner, playerSum, rivalSum, sharpPicks, sharpCount, streak, lang },
   ref,
 ) {
   const isWin = winner === 'player'
@@ -36,9 +37,8 @@ const DailyShareCard = forwardRef(function DailyShareCard(
       }}
     >
       <img
-        src={logoDataUri || theme.logo.url}
+        src={LOGO_DATA_URI}
         alt="DDL"
-        crossOrigin="anonymous"
         style={{ width: 180, height: 180, marginBottom: 40 }}
       />
 
