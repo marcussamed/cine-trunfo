@@ -1,0 +1,200 @@
+rank,titulo,slug,nota_letterboxd
+1,Barbie (2023),barbie,3.69
+2,Fight Club (1999),fight-club,4.27
+3,Joker (2019),joker-2019,3.84
+4,Parasite (2019),parasite-2019,4.52
+5,Interstellar (2014),interstellar,4.45
+6,The Dark Knight (2008),the-dark-knight,4.49
+7,Spider-Man: Into the Spider-Verse (2018),spider-man-into-the-spider-verse,4.39
+8,Get Out (2017),get-out-2017,4.13
+9,Pulp Fiction (1994),pulp-fiction,4.23
+10,La La Land (2016),la-la-land,4.13
+11,Inception (2010),inception,4.23
+12,The Truman Show (1998),the-truman-show,4.22
+13,Ratatouille (2007),ratatouille,4.23
+14,Forrest Gump (1994),forrest-gump,4.18
+15,Knives Out (2019),knives-out-2019,3.96
+16,The Wolf of Wall Street (2013),the-wolf-of-wall-street,4.0
+17,Avengers: Infinity War (2018),avengers-infinity-war,4.05
+18,Inside Out (2015),inside-out-2015,3.83
+19,Up (2009),up,4.1
+20,Avengers: Endgame (2019),avengers-endgame,3.97
+21,Whiplash (2014),whiplash-2014,4.42
+22,Dune (2021),dune-2021,3.89
+23,The Batman (2022),the-batman,4.02
+24,Everything Everywhere All at Once (2022),everything-everywhere-all-at-once,4.24
+25,Midsommar (2019),midsommar,3.74
+26,Guardians of the Galaxy (2014),guardians-of-the-galaxy,3.83
+27,Spider-Man: No Way Home (2021),spider-man-no-way-home,3.84
+28,American Psycho (2000),american-psycho,3.77
+29,Titanic (1997),titanic-1997,3.83
+30,Spirited Away (2001),spirited-away,4.44
+31,Oppenheimer (2023),oppenheimer-2023,4.16
+32,Black Panther (2018),black-panther,3.7
+33,Harry Potter and the Philosopher's Stone (2001),harry-potter-and-the-philosophers-stone,3.82
+34,Harry Potter and the Prisoner of Azkaban (2004),harry-potter-and-the-prisoner-of-azkaban,4.14
+35,Deadpool (2016),deadpool,3.69
+36,WALL·E (2008),walle,4.24
+37,Finding Nemo (2003),finding-nemo,4.03
+38,Inglourious Basterds (2009),inglourious-basterds,4.36
+39,The Shining (1980),the-shining,4.22
+40,Lady Bird (2017),lady-bird,3.82
+41,Toy Story (1995),toy-story,4.11
+42,Baby Driver (2017),baby-driver,3.7
+43,Mean Girls (2004),mean-girls,3.81
+44,Gone Girl (2014),gone-girl,4.07
+45,Shrek (2001),shrek,4.12
+46,The Hunger Games (2012),the-hunger-games,3.81
+47,Coco (2017),coco-2017,4.13
+48,Spider-Man: Homecoming (2017),spider-man-homecoming,3.49
+49,Django Unchained (2012),django-unchained,4.33
+50,Shutter Island (2010),shutter-island,4.19
+51,The Avengers (2012),the-avengers-2012,3.73
+52,The Matrix (1999),the-matrix,4.18
+53,10 Things I Hate About You (1999),10-things-i-hate-about-you,4.06
+54,Eternal Sunshine of the Spotless Mind (2004),eternal-sunshine-of-the-spotless-mind,4.24
+55,The Incredibles (2004),the-incredibles,4.07
+56,Avatar (2009),avatar,3.75
+57,Home Alone (1990),home-alone,3.85
+58,"Monsters, Inc. (2001)",monsters-inc,4.08
+59,The Grand Budapest Hotel (2014),the-grand-budapest-hotel,4.24
+60,Once Upon a Time... in Hollywood (2019),once-upon-a-time-in-hollywood,3.77
+61,Se7en (1995),se7en,4.37
+62,The Lord of the Rings: The Fellowship of the Ring (2001),the-lord-of-the-rings-the-fellowship-of-the-ring,4.39
+63,The Social Network (2010),the-social-network,3.93
+64,Back to the Future (1985),back-to-the-future,4.21
+65,Spider-Man: Across the Spider-Verse (2023),spider-man-across-the-spider-verse,4.4
+66,Black Swan (2010),black-swan,4.17
+67,Kill Bill: Vol. 1 (2003),kill-bill-vol-1,4.22
+68,Spider-Man (2002),spider-man,3.86
+69,The Silence of the Lambs (1991),the-silence-of-the-lambs,4.34
+70,Star Wars (1977),star-wars,4.16
+71,Harry Potter and the Chamber of Secrets (2002),harry-potter-and-the-chamber-of-secrets,3.64
+72,The Lion King (1994),the-lion-king,4.23
+73,Iron Man (2008),iron-man-2008,3.79
+74,Harry Potter and the Goblet of Fire (2005),harry-potter-and-the-goblet-of-fire,3.89
+75,It (2017),it-2017,3.46
+76,Thor: Ragnarok (2017),thor-ragnarok,3.7
+77,The Perks of Being a Wallflower (2012),the-perks-of-being-a-wallflower,4.02
+78,Call Me by Your Name (2017),call-me-by-your-name,3.85
+79,The Menu (2022),the-menu-2022,3.52
+80,Saltburn (2023),saltburn,3.36
+81,Scott Pilgrim vs. the World (2010),scott-pilgrim-vs-the-world,3.88
+82,Glass Onion (2022),glass-onion,3.37
+83,Harry Potter and the Deathly Hallows: Part 2 (2011),harry-potter-and-the-deathly-hallows-part-2,4.02
+84,Jurassic Park (1993),jurassic-park,4.12
+85,Harry Potter and the Order of the Phoenix (2007),harry-potter-and-the-order-of-the-phoenix,3.71
+86,Little Women (2019),little-women-2019,4.18
+87,Captain America: Civil War (2016),captain-america-civil-war,3.65
+88,Guardians of the Galaxy Vol. 2 (2017),guardians-of-the-galaxy-vol-2,3.58
+89,Don't Look Up (2021),dont-look-up-2021,3.04
+90,Hereditary (2018),hereditary,3.92
+91,Doctor Strange (2016),doctor-strange-2016,3.48
+92,The Shawshank Redemption (1994),the-shawshank-redemption,4.59
+93,The Godfather (1972),the-godfather,4.52
+94,Dead Poets Society (1989),dead-poets-society,4.35
+95,(500) Days of Summer (2009),500-days-of-summer,3.65
+96,Good Will Hunting (1997),good-will-hunting,4.38
+97,Dune: Part Two (2024),dune-part-two,4.38
+98,Harry Potter and the Deathly Hallows: Part 1 (2010),harry-potter-and-the-deathly-hallows-part-1,3.74
+99,The Empire Strikes Back (1980),the-empire-strikes-back,4.4
+100,Arrival (2016),arrival-2016,4.14
+101,Twilight (2008),twilight-2008,3.08
+102,To All the Boys I've Loved Before (2018),to-all-the-boys-ive-loved-before,3.23
+103,Alice in Wonderland (2010),alice-in-wonderland-2010,3.35
+104,Grown Ups (2010),grown-ups,3.32
+105,50 First Dates (2004),50-first-dates,3.41
+106,Five Feet Apart (2019),five-feet-apart,3.39
+107,The Amazing Spider-Man 2 (2014),the-amazing-spider-man-2,3.21
+108,Miss Peregrine's Home for Peculiar Children (2016),miss-peregrines-home-for-peculiar-children,3.32
+109,Ready Player One (2018),ready-player-one,3.34
+110,The Fast and the Furious: Tokyo Drift (2006),the-fast-and-the-furious-tokyo-drift,3.36
+111,Mr. & Mrs. Smith (2005),mr-mrs-smith-2005,3.33
+112,The Black Phone (2021),the-black-phone,3.31
+113,A Cinderella Story (2004),a-cinderella-story,3.4
+114,Just Go with It (2011),just-go-with-it,3.25
+115,Cars 2 (2011),cars-2,3.11
+116,TRON: Legacy (2010),tron-legacy,3.28
+117,Divergent (2014),divergent,3.06
+118,Star Wars: Episode II – Attack of the Clones (2002),star-wars-episode-ii-attack-of-the-clones,3.12
+119,I Believe in Unicorns (2014),i-believe-in-unicorns,3.36
+120,The Twilight Saga: New Moon (2009),the-twilight-saga-new-moon,2.78
+121,"Red, White & Royal Blue (2023)",red-white-royal-blue,3.23
+122,"As Above, So Below (2014)",as-above-so-below-2014,3.28
+123,The Proposal (2009),the-proposal-2009,3.37
+124,A Walk to Remember (2002),a-walk-to-remember,3.43
+125,All the Bright Places (2020),all-the-bright-places,3.14
+126,Charlie and the Chocolate Factory (2005),charlie-and-the-chocolate-factory,3.36
+127,Creep (2014),creep-2014,3.34
+128,Enola Holmes (2020),enola-holmes,3.16
+129,Letters to Juliet (2010),letters-to-juliet,3.36
+130,Transformers (2007),transformers,3.35
+131,Ocean's Eight (2018),oceans-eight,3.39
+132,Project X (2012),project-x-2012,3.37
+133,2 Fast 2 Furious (2003),2-fast-2-furious,3.22
+134,The Cat in the Hat (2003),the-cat-in-the-hat-2003,2.77
+135,The Blair Witch Project (1999),the-blair-witch-project,3.25
+136,The Goldfinch (2019),the-goldfinch,3.17
+137,X (2022),x-2022,3.4
+138,High School Musical 3: Senior Year (2008),high-school-musical-3-senior-year,3.3
+139,Palo Alto (2013),palo-alto,3.11
+140,The Fault in Our Stars (2014),the-fault-in-our-stars,3.2
+141,Final Destination 3 (2006),final-destination-3,3.16
+142,Wicked: For Good (2025),wicked-for-good,3.4
+143,Scream 4 (2011),scream-4,3.37
+144,Don't Worry Darling (2022),dont-worry-darling,3.1
+145,Spider-Man 3 (2007),spider-man-3,3.23
+146,Sucker Punch (2011),sucker-punch,2.91
+147,Closer (2004),closer,3.39
+148,Elvis (2022),elvis-2022,3.36
+149,Beauty and the Beast (2017),beauty-and-the-beast-2017,3.23
+150,Zoolander (2001),zoolander,3.42
+151,He's Just Not That Into You (2009),hes-just-not-that-into-you,3.15
+152,Nerve (2016),nerve-2016,3.07
+153,Longlegs (2024),longlegs,3.29
+154,Five Nights at Freddy's (2023),five-nights-at-freddys,2.58
+155,Black Widow (2021),black-widow-2021,2.93
+156,House of 1000 Corpses (2003),house-of-1000-corpses,3.22
+157,Maze Runner: The Death Cure (2018),maze-runner-the-death-cure,3.28
+158,Jurassic World (2015),jurassic-world,3.16
+159,Sinister (2012),sinister,3.38
+160,Avengers: Age of Ultron (2015),avengers-age-of-ultron,3.26
+161,Before I Fall (2017),before-i-fall,3.22
+162,Frozen II (2019),frozen-2,3.17
+163,Cinderella (2015),cinderella-2015,3.32
+164,The Lovely Bones (2009),the-lovely-bones,3.41
+165,Killer Klowns from Outer Space (1988),killer-klowns-from-outer-space,3.38
+166,Cruel Intentions (1999),cruel-intentions,3.25
+167,Evil Dead (2013),evil-dead,3.4
+168,Scary Movie (2000),scary-movie-2000,3.23
+169,The Lorax (2012),the-lorax-2012,3.35
+170,Eat Pray Love (2010),eat-pray-love,2.99
+171,Spider-Man: Far From Home (2019),spider-man-far-from-home,3.4
+172,Wuthering Heights (2026),wuthering-heights-2026,2.73
+173,Where the Crawdads Sing (2022),where-the-crawdads-sing,3.34
+174,Dracula (2025),dracula-2025,3.13
+175,The Mask (1994),the-mask-1994,3.42
+176,Pitch Perfect 2 (2015),pitch-perfect-2,3.11
+177,Grown Ups 2 (2013),grown-ups-2,2.9
+178,Enola Holmes 2 (2022),enola-holmes-2,3.31
+179,Lolita (1997),lolita-1997,3.08
+180,Beau Is Afraid (2023),beau-is-afraid,3.42
+181,Dumb and Dumber (1994),dumb-and-dumber,3.38
+182,High School Musical (2006),high-school-musical,3.32
+183,Happy Gilmore (1996),happy-gilmore,3.42
+184,World War Z (2013),world-war-z,3.21
+185,Click (2006),click,2.99
+186,Star Wars: Episode I – The Phantom Menace (1999),star-wars-episode-i-the-phantom-menace,3.13
+187,Anyone But You (2023),anyone-but-you,2.81
+188,Scream VI (2023),scream-vi,3.35
+189,The Twilight Saga: Breaking Dawn – Part 2 (2012),the-twilight-saga-breaking-dawn-part-2,2.97
+190,It Chapter Two (2019),it-chapter-two,2.93
+191,Aquamarine (2006),aquamarine,3.4
+192,Final Destination (2000),final-destination,3.2
+193,The Cabin in the Woods (2011),the-cabin-in-the-woods,3.37
+194,Monte Carlo (2011),monte-carlo,3.37
+195,Saw II (2005),saw-ii,3.26
+196,Captain America: The First Avenger (2011),captain-america-the-first-avenger,3.35
+197,It Follows (2014),it-follows,3.4
+198,The Bling Ring (2013),the-bling-ring,3.02
+199,The Fall Guy (2024),the-fall-guy-2024,3.39

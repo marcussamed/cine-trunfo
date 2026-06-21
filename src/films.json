@@ -1,0 +1,1395 @@
+[
+  {
+    "title": "Barbie",
+    "titlePt": "Barbie",
+    "year": 2023,
+    "rating": 3.69,
+    "poster": "https://image.tmdb.org/t/p/w500/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg"
+  },
+  {
+    "title": "Fight Club",
+    "titlePt": "Clube da Luta",
+    "year": 1999,
+    "rating": 4.27,
+    "poster": "https://image.tmdb.org/t/p/w500/jSziioSwPVrOy9Yow3XhWIBDjq1.jpg"
+  },
+  {
+    "title": "Joker",
+    "titlePt": "Coringa",
+    "year": 2019,
+    "rating": 3.84,
+    "poster": "https://image.tmdb.org/t/p/w500/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg"
+  },
+  {
+    "title": "Parasite",
+    "titlePt": "Parasita",
+    "year": 2019,
+    "rating": 4.52,
+    "poster": "https://image.tmdb.org/t/p/w500/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg"
+  },
+  {
+    "title": "Interstellar",
+    "titlePt": "Interestelar",
+    "year": 2014,
+    "rating": 4.45,
+    "poster": "https://image.tmdb.org/t/p/w500/yQvGrMoipbRoddT0ZR8tPoR7NfX.jpg"
+  },
+  {
+    "title": "The Dark Knight",
+    "titlePt": "Batman: O Cavaleiro das Trevas",
+    "year": 2008,
+    "rating": 4.49,
+    "poster": "https://image.tmdb.org/t/p/w500/qJ2tW6WMUDux911r6m7haRef0WH.jpg"
+  },
+  {
+    "title": "Spider-Man: Into the Spider-Verse",
+    "titlePt": "Homem-Aranha: No Aranhaverso",
+    "year": 2018,
+    "rating": 4.39,
+    "poster": "https://image.tmdb.org/t/p/w500/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg"
+  },
+  {
+    "title": "Get Out",
+    "titlePt": "Corra!",
+    "year": 2017,
+    "rating": 4.13,
+    "poster": "https://image.tmdb.org/t/p/w500/mE24wUCfjK8AoBBjaMjho7Rczr7.jpg"
+  },
+  {
+    "title": "Pulp Fiction",
+    "titlePt": "Pulp Fiction: Tempo de Violência",
+    "year": 1994,
+    "rating": 4.23,
+    "poster": "https://image.tmdb.org/t/p/w500/vQWk5YBFWF4bZaofAbv0tShwBvQ.jpg"
+  },
+  {
+    "title": "La La Land",
+    "titlePt": "La La Land: Cantando Estações",
+    "year": 2016,
+    "rating": 4.13,
+    "poster": "https://image.tmdb.org/t/p/w500/uDO8zWDhfWwoFdKS4fzkUJt0Rf0.jpg"
+  },
+  {
+    "title": "Inception",
+    "titlePt": "A Origem",
+    "year": 2010,
+    "rating": 4.23,
+    "poster": "https://image.tmdb.org/t/p/w500/xlaY2zyzMfkhk0HSC5VUwzoZPU1.jpg"
+  },
+  {
+    "title": "The Truman Show",
+    "titlePt": "O Show de Truman: O Show da Vida",
+    "year": 1998,
+    "rating": 4.22,
+    "poster": "https://image.tmdb.org/t/p/w500/vuza0WqY239yBXOadKlGwJsZJFE.jpg"
+  },
+  {
+    "title": "Ratatouille",
+    "titlePt": "Ratatouille",
+    "year": 2007,
+    "rating": 4.23,
+    "poster": "https://image.tmdb.org/t/p/w500/t3vaWRPSf6WjDSamIkKDs1iQWna.jpg"
+  },
+  {
+    "title": "Forrest Gump",
+    "titlePt": "Forrest Gump: O Contador de Histórias",
+    "year": 1994,
+    "rating": 4.18,
+    "poster": "https://image.tmdb.org/t/p/w500/Cw4hIUIAmSYfK9QfaUW5igp9La.jpg"
+  },
+  {
+    "title": "Knives Out",
+    "titlePt": "Entre Facas e Segredos",
+    "year": 2019,
+    "rating": 3.96,
+    "poster": "https://image.tmdb.org/t/p/w500/pThyQovXQrw2m0s9x82twj48Jq4.jpg"
+  },
+  {
+    "title": "The Wolf of Wall Street",
+    "titlePt": "O Lobo de Wall Street",
+    "year": 2013,
+    "rating": 4,
+    "poster": "https://image.tmdb.org/t/p/w500/kW9LmvYHAaS9iA0tHmZVq8hQYoq.jpg"
+  },
+  {
+    "title": "Avengers: Infinity War",
+    "titlePt": "Vingadores: Guerra Infinita",
+    "year": 2018,
+    "rating": 4.05,
+    "poster": "https://image.tmdb.org/t/p/w500/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg"
+  },
+  {
+    "title": "Inside Out",
+    "titlePt": "Divertida Mente",
+    "year": 2015,
+    "rating": 3.83,
+    "poster": "https://image.tmdb.org/t/p/w500/2H1TmgdfNtsKlU9jKdeNyYL5y8T.jpg"
+  },
+  {
+    "title": "Up",
+    "titlePt": "Up: Altas Aventuras",
+    "year": 2009,
+    "rating": 4.1,
+    "poster": "https://image.tmdb.org/t/p/w500/mFvoEwSfLqbcWwFsDjQebn9bzFe.jpg"
+  },
+  {
+    "title": "Avengers: Endgame",
+    "titlePt": "Vingadores: Ultimato",
+    "year": 2019,
+    "rating": 3.97,
+    "poster": "https://image.tmdb.org/t/p/w500/ulzhLuWrPK07P1YkdWQLZnQh1JL.jpg"
+  },
+  {
+    "title": "Whiplash",
+    "titlePt": "Whiplash: Em Busca da Perfeição",
+    "year": 2014,
+    "rating": 4.42,
+    "poster": "https://image.tmdb.org/t/p/w500/7fn624j5lj3xTme2SgiLCeuedmO.jpg"
+  },
+  {
+    "title": "Dune",
+    "titlePt": "Duna",
+    "year": 2021,
+    "rating": 3.89,
+    "poster": "https://image.tmdb.org/t/p/w500/gDzOcq0pfeCeqMBwKIJlSmQpjkZ.jpg"
+  },
+  {
+    "title": "The Batman",
+    "titlePt": "Batman",
+    "year": 2022,
+    "rating": 4.02,
+    "poster": "https://image.tmdb.org/t/p/w500/74xTEgt7R36Fpooo50r9T25onhq.jpg"
+  },
+  {
+    "title": "Everything Everywhere All at Once",
+    "titlePt": "Tudo em Todo o Lugar ao Mesmo Tempo",
+    "year": 2022,
+    "rating": 4.24,
+    "poster": "https://image.tmdb.org/t/p/w500/u68AjlvlutfEIcpmbYpKcdi09ut.jpg"
+  },
+  {
+    "title": "Midsommar",
+    "titlePt": "Midsommar: O Mal Não Espera a Noite",
+    "year": 2019,
+    "rating": 3.74,
+    "poster": "https://image.tmdb.org/t/p/w500/7LEI8ulZzO5gy9Ww2NVCrKmHeDZ.jpg"
+  },
+  {
+    "title": "Guardians of the Galaxy",
+    "titlePt": "Guardiões da Galáxia",
+    "year": 2014,
+    "rating": 3.83,
+    "poster": "https://image.tmdb.org/t/p/w500/r7vmZjiyZw9rpJMQJdXpjgiCOk9.jpg"
+  },
+  {
+    "title": "Spider-Man: No Way Home",
+    "titlePt": "Homem-Aranha: Sem Volta Para Casa",
+    "year": 2021,
+    "rating": 3.84,
+    "poster": "https://image.tmdb.org/t/p/w500/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg"
+  },
+  {
+    "title": "American Psycho",
+    "titlePt": "Psicopata Americano",
+    "year": 2000,
+    "rating": 3.77,
+    "poster": "https://image.tmdb.org/t/p/w500/9uGHEgsiUXjCNq8wdq4r49YL8A1.jpg"
+  },
+  {
+    "title": "Titanic",
+    "titlePt": "Titanic",
+    "year": 1997,
+    "rating": 3.83,
+    "poster": "https://image.tmdb.org/t/p/w500/9xjZS2rlVxm8SFx8kPC3aIGCOYQ.jpg"
+  },
+  {
+    "title": "Spirited Away",
+    "titlePt": "A Viagem de Chihiro",
+    "year": 2001,
+    "rating": 4.44,
+    "poster": "https://image.tmdb.org/t/p/w500/39wmItIWsg5sZMyRUHLkWBcuVCM.jpg"
+  },
+  {
+    "title": "Oppenheimer",
+    "titlePt": "Oppenheimer",
+    "year": 2023,
+    "rating": 4.16,
+    "poster": "https://image.tmdb.org/t/p/w500/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg"
+  },
+  {
+    "title": "Black Panther",
+    "titlePt": "Pantera Negra",
+    "year": 2018,
+    "rating": 3.7,
+    "poster": "https://image.tmdb.org/t/p/w500/uxzzxijgPIY7slzFvMotPv8wjKA.jpg"
+  },
+  {
+    "title": "Harry Potter and the Philosopher's Stone",
+    "titlePt": "Harry Potter e a Pedra Filosofal",
+    "year": 2001,
+    "rating": 3.82,
+    "poster": "https://image.tmdb.org/t/p/w500/wuMc08IPKEatf9rnMNXvIDxqP4W.jpg"
+  },
+  {
+    "title": "Harry Potter and the Prisoner of Azkaban",
+    "titlePt": "Harry Potter e o Prisioneiro de Azkaban",
+    "year": 2004,
+    "rating": 4.14,
+    "poster": "https://image.tmdb.org/t/p/w500/aWxwnYoe8p2d2fcxOqtvAtJ72Rw.jpg"
+  },
+  {
+    "title": "Deadpool",
+    "titlePt": "Deadpool",
+    "year": 2016,
+    "rating": 3.69,
+    "poster": "https://image.tmdb.org/t/p/w500/3E53WEZJqP6aM84D8CckXx4pIHw.jpg"
+  },
+  {
+    "title": "WALL·E",
+    "titlePt": "WALL-E",
+    "year": 2008,
+    "rating": 4.24,
+    "poster": "https://image.tmdb.org/t/p/w500/hbhFnRzzg6ZDmm8YAmxBnQpQIPh.jpg"
+  },
+  {
+    "title": "Finding Nemo",
+    "titlePt": "Procurando Nemo",
+    "year": 2003,
+    "rating": 4.03,
+    "poster": "https://image.tmdb.org/t/p/w500/5lc6nQc0VhWFYFbNv016xze8Jvy.jpg"
+  },
+  {
+    "title": "Inglourious Basterds",
+    "titlePt": "Bastardos Inglórios",
+    "year": 2009,
+    "rating": 4.36,
+    "poster": "https://image.tmdb.org/t/p/w500/7sfbEnaARXDDhKm0CZ7D7uc2sbo.jpg"
+  },
+  {
+    "title": "The Shining",
+    "titlePt": "O Iluminado",
+    "year": 1980,
+    "rating": 4.22,
+    "poster": "https://image.tmdb.org/t/p/w500/uAR0AWqhQL1hQa69UDEbb2rE5Wx.jpg"
+  },
+  {
+    "title": "Lady Bird",
+    "titlePt": "Lady Bird - A Hora de Voar",
+    "year": 2017,
+    "rating": 3.82,
+    "poster": "https://image.tmdb.org/t/p/w500/gl66K7zRdtNYGrxyS2YDUP5ASZd.jpg"
+  },
+  {
+    "title": "Toy Story",
+    "titlePt": "Toy Story: Um Mundo de Aventuras",
+    "year": 1995,
+    "rating": 4.11,
+    "poster": "https://image.tmdb.org/t/p/w500/uXDfjJbdP4ijW5hWSBrPrlKpxab.jpg"
+  },
+  {
+    "title": "Baby Driver",
+    "titlePt": "Em Ritmo de Fuga",
+    "year": 2017,
+    "rating": 3.7,
+    "poster": "https://image.tmdb.org/t/p/w500/tYzFuYXmT8LOYASlFCkaPiAFAl0.jpg"
+  },
+  {
+    "title": "Mean Girls",
+    "titlePt": "Meninas Malvadas",
+    "year": 2004,
+    "rating": 3.81,
+    "poster": "https://image.tmdb.org/t/p/w500/fXm3YKXAEjx7d2tIWDg9TfRZtsU.jpg"
+  },
+  {
+    "title": "Gone Girl",
+    "titlePt": "Garota Exemplar",
+    "year": 2014,
+    "rating": 4.07,
+    "poster": "https://image.tmdb.org/t/p/w500/ts996lKsxvjkO2yiYG0ht4qAicO.jpg"
+  },
+  {
+    "title": "Shrek",
+    "titlePt": "Shrek",
+    "year": 2001,
+    "rating": 4.12,
+    "poster": "https://image.tmdb.org/t/p/w500/iB64vpL3dIObOtMZgX3RqdVdQDc.jpg"
+  },
+  {
+    "title": "The Hunger Games",
+    "titlePt": "Jogos Vorazes",
+    "year": 2012,
+    "rating": 3.81,
+    "poster": "https://image.tmdb.org/t/p/w500/yXCbOiVDCxO71zI7cuwBRXdftq8.jpg"
+  },
+  {
+    "title": "Coco",
+    "titlePt": "Viva: A Vida é uma Festa",
+    "year": 2017,
+    "rating": 4.13,
+    "poster": "https://image.tmdb.org/t/p/w500/6Ryitt95xrO8KXuqRGm1fUuNwqF.jpg"
+  },
+  {
+    "title": "Spider-Man: Homecoming",
+    "titlePt": "Homem-Aranha: De Volta ao Lar",
+    "year": 2017,
+    "rating": 3.49,
+    "poster": "https://image.tmdb.org/t/p/w500/c24sv2weTHPsmDa7jEMN0m2P3RT.jpg"
+  },
+  {
+    "title": "Django Unchained",
+    "titlePt": "Django Livre",
+    "year": 2012,
+    "rating": 4.33,
+    "poster": "https://image.tmdb.org/t/p/w500/7oWY8VDWW7thTzWh3OKYRkWUlD5.jpg"
+  },
+  {
+    "title": "Shutter Island",
+    "titlePt": "Ilha do Medo",
+    "year": 2010,
+    "rating": 4.19,
+    "poster": "https://image.tmdb.org/t/p/w500/nrmXQ0zcZUL8jFLrakWc90IR8z9.jpg"
+  },
+  {
+    "title": "The Avengers",
+    "titlePt": "Os Vingadores: The Avengers",
+    "year": 2012,
+    "rating": 3.73,
+    "poster": "https://image.tmdb.org/t/p/w500/RYMX2wcKCBAr24UyPD7xwmjaTn.jpg"
+  },
+  {
+    "title": "The Matrix",
+    "titlePt": "Matrix",
+    "year": 1999,
+    "rating": 4.18,
+    "poster": "https://image.tmdb.org/t/p/w500/dXNAPwY7VrqMAo51EKhhCJfaGb5.jpg"
+  },
+  {
+    "title": "10 Things I Hate About You",
+    "titlePt": "10 Coisas Que Eu Odeio em Você",
+    "year": 1999,
+    "rating": 4.06,
+    "poster": "https://image.tmdb.org/t/p/w500/ujERk3aKABXU3NDXOAxEQYTHe9A.jpg"
+  },
+  {
+    "title": "Eternal Sunshine of the Spotless Mind",
+    "titlePt": "Brilho Eterno de uma Mente sem Lembranças",
+    "year": 2004,
+    "rating": 4.24,
+    "poster": "https://image.tmdb.org/t/p/w500/5MwkWH9tYHv3mV9OdYTMR5qreIz.jpg"
+  },
+  {
+    "title": "The Incredibles",
+    "titlePt": "Os Incríveis",
+    "year": 2004,
+    "rating": 4.07,
+    "poster": "https://image.tmdb.org/t/p/w500/2LqaLgk4Z226KkgPJuiOQ58wvrm.jpg"
+  },
+  {
+    "title": "Avatar",
+    "titlePt": "Avatar",
+    "year": 2009,
+    "rating": 3.75,
+    "poster": "https://image.tmdb.org/t/p/w500/gKY6q7SjCkAU6FqvqWybDYgUKIF.jpg"
+  },
+  {
+    "title": "Home Alone",
+    "titlePt": "Esqueceram de Mim",
+    "year": 1990,
+    "rating": 3.85,
+    "poster": "https://image.tmdb.org/t/p/w500/onTSipZ8R3bliBdKfPtsDuHTdlL.jpg"
+  },
+  {
+    "title": "Monsters, Inc.",
+    "titlePt": "Monstros S.A.",
+    "year": 2001,
+    "rating": 4.08,
+    "poster": "https://image.tmdb.org/t/p/w500/wFSpyMsp7H0ttERbxY7Trlv8xry.jpg"
+  },
+  {
+    "title": "The Grand Budapest Hotel",
+    "titlePt": "O Grande Hotel Budapeste",
+    "year": 2014,
+    "rating": 4.24,
+    "poster": "https://image.tmdb.org/t/p/w500/eWdyYQreja6JGCzqHWXpWHDrrPo.jpg"
+  },
+  {
+    "title": "Once Upon a Time... in Hollywood",
+    "titlePt": "Era Uma Vez em… Hollywood",
+    "year": 2019,
+    "rating": 3.77,
+    "poster": "https://image.tmdb.org/t/p/w500/8j58iEBw9pOXFD2L0nt0ZXeHviB.jpg"
+  },
+  {
+    "title": "Se7en",
+    "titlePt": "Seven - Os Sete Crimes Capitais",
+    "year": 1995,
+    "rating": 4.37,
+    "poster": "https://image.tmdb.org/t/p/w500/191nKfP0ehp3uIvWqgPbFmI4lv9.jpg"
+  },
+  {
+    "title": "The Lord of the Rings: The Fellowship of the Ring",
+    "titlePt": "O Senhor dos Anéis: A Sociedade do Anel",
+    "year": 2001,
+    "rating": 4.39,
+    "poster": "https://image.tmdb.org/t/p/w500/6oom5QYQ2yQTMJIbnvbkBL9cHo6.jpg"
+  },
+  {
+    "title": "The Social Network",
+    "titlePt": "A Rede Social",
+    "year": 2010,
+    "rating": 3.93,
+    "poster": "https://image.tmdb.org/t/p/w500/n0ybibhJtQ5icDqTp8eRytcIHJx.jpg"
+  },
+  {
+    "title": "Back to the Future",
+    "titlePt": "De Volta para o Futuro",
+    "year": 1985,
+    "rating": 4.21,
+    "poster": "https://image.tmdb.org/t/p/w500/vN5B5WgYscRGcQpVhHl6p9DDTP0.jpg"
+  },
+  {
+    "title": "Spider-Man: Across the Spider-Verse",
+    "titlePt": "Homem-Aranha: Através do Aranhaverso",
+    "year": 2023,
+    "rating": 4.4,
+    "poster": "https://image.tmdb.org/t/p/w500/8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg"
+  },
+  {
+    "title": "Black Swan",
+    "titlePt": "Cisne Negro",
+    "year": 2010,
+    "rating": 4.17,
+    "poster": "https://image.tmdb.org/t/p/w500/viWheBd44bouiLCHgNMvahLThqx.jpg"
+  },
+  {
+    "title": "Kill Bill: Vol. 1",
+    "titlePt": "Kill Bill: Volume 1",
+    "year": 2003,
+    "rating": 4.22,
+    "poster": "https://image.tmdb.org/t/p/w500/v7TaX8kXMXs5yFFGR41guUDNcnB.jpg"
+  },
+  {
+    "title": "Spider-Man",
+    "titlePt": "Homem-Aranha",
+    "year": 2002,
+    "rating": 3.86,
+    "poster": "https://image.tmdb.org/t/p/w500/kjdJntyBeEvqm9w97QGBdxPptzj.jpg"
+  },
+  {
+    "title": "The Silence of the Lambs",
+    "titlePt": "O Silêncio dos Inocentes",
+    "year": 1991,
+    "rating": 4.34,
+    "poster": "https://image.tmdb.org/t/p/w500/uS9m8OBk1A8eM9I042bx8XXpqAq.jpg"
+  },
+  {
+    "title": "Star Wars",
+    "titlePt": "Guerra nas Estrelas",
+    "year": 1977,
+    "rating": 4.16,
+    "poster": "https://image.tmdb.org/t/p/w500/6FfCtAuVAW8XJjZ7eWeLibRLWTw.jpg"
+  },
+  {
+    "title": "Harry Potter and the Chamber of Secrets",
+    "titlePt": "Harry Potter e a Câmara Secreta",
+    "year": 2002,
+    "rating": 3.64,
+    "poster": "https://image.tmdb.org/t/p/w500/sdEOH0992YZ0QSxgXNIGLq1ToUi.jpg"
+  },
+  {
+    "title": "The Lion King",
+    "titlePt": "O Rei Leão",
+    "year": 1994,
+    "rating": 4.23,
+    "poster": "https://image.tmdb.org/t/p/w500/sKCr78MXSLixwmZ8DyJLrpMsd15.jpg"
+  },
+  {
+    "title": "Iron Man",
+    "titlePt": "Homem de Ferro",
+    "year": 2008,
+    "rating": 3.79,
+    "poster": "https://image.tmdb.org/t/p/w500/78lPtwv72eTNqFW9COBYI0dWDJa.jpg"
+  },
+  {
+    "title": "Harry Potter and the Goblet of Fire",
+    "titlePt": "Harry Potter e o Cálice de Fogo",
+    "year": 2005,
+    "rating": 3.89,
+    "poster": "https://image.tmdb.org/t/p/w500/fECBtHlr0RB3foNHDiCBXeg9Bv9.jpg"
+  },
+  {
+    "title": "It",
+    "titlePt": "It: A Coisa",
+    "year": 2017,
+    "rating": 3.46,
+    "poster": "https://image.tmdb.org/t/p/w500/9E2y5Q7WlCVNEhP5GiVTjhEhx1o.jpg"
+  },
+  {
+    "title": "Thor: Ragnarok",
+    "titlePt": "Thor: Ragnarok",
+    "year": 2017,
+    "rating": 3.7,
+    "poster": "https://image.tmdb.org/t/p/w500/rzRwTcFvttcN1ZpX2xv4j3tSdJu.jpg"
+  },
+  {
+    "title": "The Perks of Being a Wallflower",
+    "titlePt": "As Vantagens de Ser Invisível",
+    "year": 2012,
+    "rating": 4.02,
+    "poster": "https://image.tmdb.org/t/p/w500/aKCvdFFF5n80P2VdS7d8YBwbCjh.jpg"
+  },
+  {
+    "title": "Call Me by Your Name",
+    "titlePt": "Me Chame Pelo Seu Nome",
+    "year": 2017,
+    "rating": 3.85,
+    "poster": "https://image.tmdb.org/t/p/w500/mZ4gBdfkhP9tvLH1DO4m4HYtiyi.jpg"
+  },
+  {
+    "title": "The Menu",
+    "titlePt": "O Menu",
+    "year": 2022,
+    "rating": 3.52,
+    "poster": "https://image.tmdb.org/t/p/w500/fPtUgMcLIboqlTlPrq0bQpKK8eq.jpg"
+  },
+  {
+    "title": "Saltburn",
+    "titlePt": "Saltburn",
+    "year": 2023,
+    "rating": 3.36,
+    "poster": "https://image.tmdb.org/t/p/w500/zGTfMwG112BC66mpaveVxoWPOaB.jpg"
+  },
+  {
+    "title": "Scott Pilgrim vs. the World",
+    "titlePt": "Scott Pilgrim Contra o Mundo",
+    "year": 2010,
+    "rating": 3.88,
+    "poster": "https://image.tmdb.org/t/p/w500/g5IoYeudx9XBEfwNL0fHvSckLBz.jpg"
+  },
+  {
+    "title": "Glass Onion",
+    "titlePt": "Glass Onion: Um Mistério Knives Out",
+    "year": 2022,
+    "rating": 3.37,
+    "poster": "https://image.tmdb.org/t/p/w500/vDGr1YdrlfbU9wxTOdpf3zChmv9.jpg"
+  },
+  {
+    "title": "Harry Potter and the Deathly Hallows: Part 2",
+    "titlePt": "Harry Potter e as Relíquias da Morte - Parte 2",
+    "year": 2011,
+    "rating": 4.02,
+    "poster": "https://image.tmdb.org/t/p/w500/c54HpQmuwXjHq2C9wmoACjxoom3.jpg"
+  },
+  {
+    "title": "Jurassic Park",
+    "titlePt": "Jurassic Park: O Parque dos Dinossauros",
+    "year": 1993,
+    "rating": 4.12,
+    "poster": "https://image.tmdb.org/t/p/w500/fjTU1Bgh3KJu4aatZil3sofR2zC.jpg"
+  },
+  {
+    "title": "Harry Potter and the Order of the Phoenix",
+    "titlePt": "Harry Potter e a Ordem da Fênix",
+    "year": 2007,
+    "rating": 3.71,
+    "poster": "https://image.tmdb.org/t/p/w500/5aOyriWkPec0zUDxmHFP9qMmBaj.jpg"
+  },
+  {
+    "title": "Little Women",
+    "titlePt": "Adoráveis Mulheres",
+    "year": 2019,
+    "rating": 4.18,
+    "poster": "https://image.tmdb.org/t/p/w500/yn5ihODtZ7ofn8pDYfxCmxh8AXI.jpg"
+  },
+  {
+    "title": "Captain America: Civil War",
+    "titlePt": "Capitão América: Guerra Civil",
+    "year": 2016,
+    "rating": 3.65,
+    "poster": "https://image.tmdb.org/t/p/w500/rAGiXaUfPzY7CDEyNKUofk3Kw2e.jpg"
+  },
+  {
+    "title": "Guardians of the Galaxy Vol. 2",
+    "titlePt": "Guardiões da Galáxia - Vol. 2",
+    "year": 2017,
+    "rating": 3.58,
+    "poster": "https://image.tmdb.org/t/p/w500/y4MBh0EjBlMuOzv9axM4qJlmhzz.jpg"
+  },
+  {
+    "title": "Don't Look Up",
+    "titlePt": "Não Olhe para Cima",
+    "year": 2021,
+    "rating": 3.04,
+    "poster": "https://image.tmdb.org/t/p/w500/th4E1yqsE8DGpAseLiUrI60Hf8V.jpg"
+  },
+  {
+    "title": "Hereditary",
+    "titlePt": "Hereditário",
+    "year": 2018,
+    "rating": 3.92,
+    "poster": "https://image.tmdb.org/t/p/w500/4GFPuL14eXi66V96xBWY73Y9PfR.jpg"
+  },
+  {
+    "title": "Doctor Strange",
+    "titlePt": "Doutor Estranho",
+    "year": 2016,
+    "rating": 3.48,
+    "poster": "https://image.tmdb.org/t/p/w500/xf8PbyQcR5ucXErmZNzdKR0s8ya.jpg"
+  },
+  {
+    "title": "The Shawshank Redemption",
+    "titlePt": "Um Sonho de Liberdade",
+    "year": 1994,
+    "rating": 4.59,
+    "poster": "https://image.tmdb.org/t/p/w500/9cqNxx0GxF0bflZmeSMuL5tnGzr.jpg"
+  },
+  {
+    "title": "The Godfather",
+    "titlePt": "O Poderoso Chefão",
+    "year": 1972,
+    "rating": 4.52,
+    "poster": "https://image.tmdb.org/t/p/w500/3bhkrj58Vtu7enYsRolD1fZdja1.jpg"
+  },
+  {
+    "title": "Dead Poets Society",
+    "titlePt": "Sociedade dos Poetas Mortos",
+    "year": 1989,
+    "rating": 4.35,
+    "poster": "https://image.tmdb.org/t/p/w500/erzbMlcNHOdx24AXOcn2ZKA7R1q.jpg"
+  },
+  {
+    "title": "(500) Days of Summer",
+    "titlePt": "(500) Dias com Ela",
+    "year": 2009,
+    "rating": 3.65,
+    "poster": "https://image.tmdb.org/t/p/w500/qXAuQ9hF30sQRsXf40OfRVl0MJZ.jpg"
+  },
+  {
+    "title": "Good Will Hunting",
+    "titlePt": "Gênio Indomável",
+    "year": 1997,
+    "rating": 4.38,
+    "poster": "https://image.tmdb.org/t/p/w500/z2FnLKpFi1HPO7BEJxdkv6hpJSU.jpg"
+  },
+  {
+    "title": "Dune: Part Two",
+    "titlePt": "Duna: Parte Dois",
+    "year": 2024,
+    "rating": 4.38,
+    "poster": "https://image.tmdb.org/t/p/w500/1pdfLvkbY9ohJlCjQH2CZjjYVvJ.jpg"
+  },
+  {
+    "title": "Harry Potter and the Deathly Hallows: Part 1",
+    "titlePt": "Harry Potter e as Relíquias da Morte - Parte 1",
+    "year": 2010,
+    "rating": 3.74,
+    "poster": "https://image.tmdb.org/t/p/w500/iGoXIpQb7Pot00EEdwpwPajheZ5.jpg"
+  },
+  {
+    "title": "The Empire Strikes Back",
+    "titlePt": "Guerra nas Estrelas: O Império Contra-Ataca",
+    "year": 1980,
+    "rating": 4.4,
+    "poster": "https://image.tmdb.org/t/p/w500/nNAeTmF4CtdSgMDplXTDPOpYzsX.jpg"
+  },
+  {
+    "title": "Arrival",
+    "titlePt": "A Chegada",
+    "year": 2016,
+    "rating": 4.14,
+    "poster": "https://image.tmdb.org/t/p/w500/x2FJsf1ElAgr63Y3PNPtJrcmpoe.jpg"
+  },
+  {
+    "title": "Twilight",
+    "titlePt": "Crepúsculo",
+    "year": 2008,
+    "rating": 3.08,
+    "poster": "https://image.tmdb.org/t/p/w500/3Gkb6jm6962ADUPaCBqzz9CTbn9.jpg"
+  },
+  {
+    "title": "To All the Boys I've Loved Before",
+    "titlePt": "Para Todos os Garotos que Já Amei",
+    "year": 2018,
+    "rating": 3.23,
+    "poster": "https://image.tmdb.org/t/p/w500/hKHZhUbIyUAjcSrqJThFGYIR6kI.jpg"
+  },
+  {
+    "title": "Alice in Wonderland",
+    "titlePt": "Alice no País das Maravilhas",
+    "year": 2010,
+    "rating": 3.35,
+    "poster": "https://image.tmdb.org/t/p/w500/o0kre9wRCZz3jjSjaru7QU0UtFz.jpg"
+  },
+  {
+    "title": "Grown Ups",
+    "titlePt": "Gente Grande",
+    "year": 2010,
+    "rating": 3.32,
+    "poster": "https://image.tmdb.org/t/p/w500/cQGM5k1NtU85n4TUlrOrwijSCcm.jpg"
+  },
+  {
+    "title": "50 First Dates",
+    "titlePt": "Como Se Fosse a Primeira Vez",
+    "year": 2004,
+    "rating": 3.41,
+    "poster": "https://image.tmdb.org/t/p/w500/lzUI2Cg7OMfcUNv3f7MywYNBjs6.jpg"
+  },
+  {
+    "title": "Five Feet Apart",
+    "titlePt": "A Cinco Passos de Você",
+    "year": 2019,
+    "rating": 3.39,
+    "poster": "https://image.tmdb.org/t/p/w500/kreTuJBkUjVWePRfhHZuYfhNE1T.jpg"
+  },
+  {
+    "title": "The Amazing Spider-Man 2",
+    "titlePt": "O Espetacular Homem-Aranha 2: A Ameaça de Electro",
+    "year": 2014,
+    "rating": 3.21,
+    "poster": "https://image.tmdb.org/t/p/w500/dGjoPttcbKR5VWg1jQuNFB247KL.jpg"
+  },
+  {
+    "title": "Miss Peregrine's Home for Peculiar Children",
+    "titlePt": "O Lar das Crianças Peculiares",
+    "year": 2016,
+    "rating": 3.32,
+    "poster": "https://image.tmdb.org/t/p/w500/CIlbMFOfYDj0MP23hsIYhFGrL6.jpg"
+  },
+  {
+    "title": "Ready Player One",
+    "titlePt": "Jogador N° 1",
+    "year": 2018,
+    "rating": 3.34,
+    "poster": "https://image.tmdb.org/t/p/w500/pU1ULUq8D3iRxl1fdX2lZIzdHuI.jpg"
+  },
+  {
+    "title": "The Fast and the Furious: Tokyo Drift",
+    "titlePt": "Velozes e Furiosos: Desafio em Tóquio",
+    "year": 2006,
+    "rating": 3.36,
+    "poster": "https://image.tmdb.org/t/p/w500/46xqGOwHbh2TH2avWSw3SMXph4E.jpg"
+  },
+  {
+    "title": "Mr. & Mrs. Smith",
+    "titlePt": "Sr. & Sra. Smith",
+    "year": 2005,
+    "rating": 3.33,
+    "poster": "https://image.tmdb.org/t/p/w500/kjD700RtyhveN3ZbOnSvUSne0Qj.jpg"
+  },
+  {
+    "title": "The Black Phone",
+    "titlePt": "O Telefone Preto",
+    "year": 2021,
+    "rating": 3.31,
+    "poster": "https://image.tmdb.org/t/p/w500/p9ZUzCyy9wRTDuuQexkQ78R2BgF.jpg"
+  },
+  {
+    "title": "A Cinderella Story",
+    "titlePt": "A Nova Cinderela",
+    "year": 2004,
+    "rating": 3.4,
+    "poster": "https://image.tmdb.org/t/p/w500/ukwP7gDPWxj1R1dW5iN3mnxkL3D.jpg"
+  },
+  {
+    "title": "Just Go with It",
+    "titlePt": "Esposa de Mentirinha",
+    "year": 2011,
+    "rating": 3.25,
+    "poster": "https://image.tmdb.org/t/p/w500/3rz7bfGsPGcI6cfY002n9VrUgao.jpg"
+  },
+  {
+    "title": "Cars 2",
+    "titlePt": "Carros 2",
+    "year": 2011,
+    "rating": 3.11,
+    "poster": "https://image.tmdb.org/t/p/w500/okIz1HyxeVOMzYwwHUjH2pHi74I.jpg"
+  },
+  {
+    "title": "TRON: Legacy",
+    "titlePt": "Tron: O Legado",
+    "year": 2010,
+    "rating": 3.28,
+    "poster": "https://image.tmdb.org/t/p/w500/8Nc6R8k7bG8frSiDJo0oLucF7dN.jpg"
+  },
+  {
+    "title": "Divergent",
+    "titlePt": "Divergente",
+    "year": 2014,
+    "rating": 3.06,
+    "poster": "https://image.tmdb.org/t/p/w500/aNh4Q3iuPKDMPi2SL7GgOpiLukX.jpg"
+  },
+  {
+    "title": "Star Wars: Episode II – Attack of the Clones",
+    "titlePt": "Star Wars: Episódio II - Ataque dos Clones",
+    "year": 2002,
+    "rating": 3.12,
+    "poster": "https://image.tmdb.org/t/p/w500/oZNPzxqM2s5DyVWab09NTQScDQt.jpg"
+  },
+  {
+    "title": "I Believe in Unicorns",
+    "titlePt": "Eu Acredito em Unicórnios",
+    "year": 2014,
+    "rating": 3.36,
+    "poster": "https://image.tmdb.org/t/p/w500/gxquUhh9IleBnWJFoNJQmfjXqgG.jpg"
+  },
+  {
+    "title": "The Twilight Saga: New Moon",
+    "titlePt": "A Saga Crepúsculo: Lua Nova",
+    "year": 2009,
+    "rating": 2.78,
+    "poster": "https://image.tmdb.org/t/p/w500/k2qTooPlHffgNABNWxeJdGMglPK.jpg"
+  },
+  {
+    "title": "Red, White & Royal Blue",
+    "titlePt": "Vermelho, Branco e Sangue Azul",
+    "year": 2023,
+    "rating": 3.23,
+    "poster": "https://image.tmdb.org/t/p/w500/ta3ReqbdEcLJM3mcHMzbYFZI8v7.jpg"
+  },
+  {
+    "title": "As Above, So Below",
+    "titlePt": "Assim na Terra Como no Inferno",
+    "year": 2014,
+    "rating": 3.28,
+    "poster": "https://image.tmdb.org/t/p/w500/oJZSajKLJkoTOzSZQN2ZwRnPwHZ.jpg"
+  },
+  {
+    "title": "The Proposal",
+    "titlePt": "A Proposta",
+    "year": 2009,
+    "rating": 3.37,
+    "poster": "https://image.tmdb.org/t/p/w500/6stnAm1wSek8ZrislwK4xGTyCnt.jpg"
+  },
+  {
+    "title": "A Walk to Remember",
+    "titlePt": "Um Amor para Recordar",
+    "year": 2002,
+    "rating": 3.43,
+    "poster": "https://image.tmdb.org/t/p/w500/8lUYMvWdHA0Q0k5F76RQCeCBUkA.jpg"
+  },
+  {
+    "title": "All the Bright Places",
+    "titlePt": "Por Lugares Incríveis",
+    "year": 2020,
+    "rating": 3.14,
+    "poster": "https://image.tmdb.org/t/p/w500/4SafxuMKQiw4reBiWKVZJpJn80I.jpg"
+  },
+  {
+    "title": "Charlie and the Chocolate Factory",
+    "titlePt": "A Fantástica Fábrica de Chocolate",
+    "year": 2005,
+    "rating": 3.36,
+    "poster": "https://image.tmdb.org/t/p/w500/iKP6wg3c6COUe8gYutoGG7qcPnO.jpg"
+  },
+  {
+    "title": "Creep",
+    "titlePt": "Lunático",
+    "year": 2014,
+    "rating": 3.34,
+    "poster": "https://image.tmdb.org/t/p/w500/qn53D574tT0YRyLgirEFHQwGUXw.jpg"
+  },
+  {
+    "title": "Enola Holmes",
+    "titlePt": "Enola Holmes",
+    "year": 2020,
+    "rating": 3.16,
+    "poster": "https://image.tmdb.org/t/p/w500/riYInlsq2kf1AWoGm80JQW5dLKp.jpg"
+  },
+  {
+    "title": "Letters to Juliet",
+    "titlePt": "Cartas para Julieta",
+    "year": 2010,
+    "rating": 3.36,
+    "poster": "https://image.tmdb.org/t/p/w500/y9DdvY1IRNS2hWLq161hmP2gXn.jpg"
+  },
+  {
+    "title": "Transformers",
+    "titlePt": "Transformers",
+    "year": 2007,
+    "rating": 3.35,
+    "poster": "https://image.tmdb.org/t/p/w500/4N4sipl8T72tNE4earcctQa2Kw2.jpg"
+  },
+  {
+    "title": "Ocean's Eight",
+    "titlePt": "Oito Mulheres e um Segredo",
+    "year": 2018,
+    "rating": 3.39,
+    "poster": "https://image.tmdb.org/t/p/w500/MvYpKlpFukTivnlBhizGbkAe3v.jpg"
+  },
+  {
+    "title": "Project X",
+    "titlePt": "Projeto X: Uma Festa Fora de Controle",
+    "year": 2012,
+    "rating": 3.37,
+    "poster": "https://image.tmdb.org/t/p/w500/lUPDGT3lyRrq8SvWuNWG2DP64bR.jpg"
+  },
+  {
+    "title": "2 Fast 2 Furious",
+    "titlePt": "+ Velozes + Furiosos",
+    "year": 2003,
+    "rating": 3.22,
+    "poster": "https://image.tmdb.org/t/p/w500/6nDZExrDKIXvSAghsFKVFRVJuSf.jpg"
+  },
+  {
+    "title": "The Cat in the Hat",
+    "titlePt": "O Gato",
+    "year": 2003,
+    "rating": 2.77,
+    "poster": "https://image.tmdb.org/t/p/w500/uYYLz67e5xEQMsY858VSSCDsLU6.jpg"
+  },
+  {
+    "title": "The Blair Witch Project",
+    "titlePt": "A Bruxa de Blair",
+    "year": 1999,
+    "rating": 3.25,
+    "poster": "https://image.tmdb.org/t/p/w500/9050VGrYjYrEjpOvDZVAngLbg1f.jpg"
+  },
+  {
+    "title": "The Goldfinch",
+    "titlePt": "O Pintassilgo",
+    "year": 2019,
+    "rating": 3.17,
+    "poster": "https://image.tmdb.org/t/p/w500/5Jx9VyVPiK9GQ7ouKLkTUYnZSQ4.jpg"
+  },
+  {
+    "title": "X",
+    "titlePt": "X: A Marca da Morte",
+    "year": 2022,
+    "rating": 3.4,
+    "poster": "https://image.tmdb.org/t/p/w500/lopZSVtXzhFY603E9OqF7O1YKsh.jpg"
+  },
+  {
+    "title": "High School Musical 3: Senior Year",
+    "titlePt": "High School Musical 3: Ano da Formatura",
+    "year": 2008,
+    "rating": 3.3,
+    "poster": "https://image.tmdb.org/t/p/w500/aq2o1wT0crBOTxof36O6KTyjpgE.jpg"
+  },
+  {
+    "title": "Palo Alto",
+    "titlePt": "Palo Alto",
+    "year": 2013,
+    "rating": 3.11,
+    "poster": "https://image.tmdb.org/t/p/w500/yjcwwYP3eSigxLKKVBoVVz85ZWv.jpg"
+  },
+  {
+    "title": "The Fault in Our Stars",
+    "titlePt": "A Culpa é das Estrelas",
+    "year": 2014,
+    "rating": 3.2,
+    "poster": "https://image.tmdb.org/t/p/w500/kcVuktIlrn9SAN1uBmPDnocTQmF.jpg"
+  },
+  {
+    "title": "Final Destination 3",
+    "titlePt": "Premonição 3",
+    "year": 2006,
+    "rating": 3.16,
+    "poster": "https://image.tmdb.org/t/p/w500/p7ARuNKUGPGvkBiDtIDvAzYzonX.jpg"
+  },
+  {
+    "title": "Wicked: For Good",
+    "titlePt": "Wicked: Parte II",
+    "year": 2025,
+    "rating": 3.4,
+    "poster": "https://image.tmdb.org/t/p/w500/si9tolnefLSUKaqQEGz1bWArOaL.jpg"
+  },
+  {
+    "title": "Scream 4",
+    "titlePt": "Pânico 4",
+    "year": 2011,
+    "rating": 3.37,
+    "poster": "https://image.tmdb.org/t/p/w500/3cf8p2qw9qnsaaFWc64AG6U05eT.jpg"
+  },
+  {
+    "title": "Don't Worry Darling",
+    "titlePt": "Não Se Preocupe, Querida",
+    "year": 2022,
+    "rating": 3.1,
+    "poster": "https://image.tmdb.org/t/p/w500/jOqxKIOC92BVyinYO1Fm73XY7Tc.jpg"
+  },
+  {
+    "title": "Spider-Man 3",
+    "titlePt": "Homem-Aranha 3",
+    "year": 2007,
+    "rating": 3.23,
+    "poster": "https://image.tmdb.org/t/p/w500/qFmwhVUoUSXjkKRmca5yGDEXBIj.jpg"
+  },
+  {
+    "title": "Sucker Punch",
+    "titlePt": "Sucker Punch: Mundo Surreal",
+    "year": 2011,
+    "rating": 2.91,
+    "poster": "https://image.tmdb.org/t/p/w500/jtaUDnvIiHUd2ranDcjB5AbPx6o.jpg"
+  },
+  {
+    "title": "Closer",
+    "titlePt": "Closer: Perto Demais",
+    "year": 2004,
+    "rating": 3.39,
+    "poster": "https://image.tmdb.org/t/p/w500/fGGaokx4k00S0J603VG53Qlr9jz.jpg"
+  },
+  {
+    "title": "Elvis",
+    "titlePt": "Elvis",
+    "year": 2022,
+    "rating": 3.36,
+    "poster": "https://image.tmdb.org/t/p/w500/qBOKWqAFbveZ4ryjJJwbie6tXkQ.jpg"
+  },
+  {
+    "title": "Beauty and the Beast",
+    "titlePt": "A Bela e a Fera",
+    "year": 2017,
+    "rating": 3.23,
+    "poster": "https://image.tmdb.org/t/p/w500/hKegSKIDep2ewJWPUQD7u0KqFIp.jpg"
+  },
+  {
+    "title": "Zoolander",
+    "titlePt": "Zoolander",
+    "year": 2001,
+    "rating": 3.42,
+    "poster": "https://image.tmdb.org/t/p/w500/qdrbSneHZjJG2Dj0hhBxzzAo4HB.jpg"
+  },
+  {
+    "title": "He's Just Not That Into You",
+    "titlePt": "Ele Não Está Tão a Fim de Você",
+    "year": 2009,
+    "rating": 3.15,
+    "poster": "https://image.tmdb.org/t/p/w500/jip2ap24Y6JxEgzVRyNqyYssnyR.jpg"
+  },
+  {
+    "title": "Nerve",
+    "titlePt": "Nerve - Um Jogo Sem Regras",
+    "year": 2016,
+    "rating": 3.07,
+    "poster": "https://image.tmdb.org/t/p/w500/qmSpHC0CSNyNll9WhlwWYuwoQ28.jpg"
+  },
+  {
+    "title": "Longlegs",
+    "titlePt": "Longlegs - Vínculo Mortal",
+    "year": 2024,
+    "rating": 3.29,
+    "poster": "https://image.tmdb.org/t/p/w500/1EwNyiiNFd863H4e8nWEzutnZD7.jpg"
+  },
+  {
+    "title": "Five Nights at Freddy's",
+    "titlePt": "Five Nights at Freddy's - O Pesadelo Sem Fim",
+    "year": 2023,
+    "rating": 2.58,
+    "poster": "https://image.tmdb.org/t/p/w500/7BpNtNfxuocYEVREzVMO75hso1l.jpg"
+  },
+  {
+    "title": "Black Widow",
+    "titlePt": "Viúva Negra",
+    "year": 2021,
+    "rating": 2.93,
+    "poster": "https://image.tmdb.org/t/p/w500/qAZ0pzat24kLdO3o8ejmbLxyOac.jpg"
+  },
+  {
+    "title": "House of 1000 Corpses",
+    "titlePt": "A Casa dos 1000 Corpos",
+    "year": 2003,
+    "rating": 3.22,
+    "poster": "https://image.tmdb.org/t/p/w500/29c2qgXmSREosLBevOILEuMWzQC.jpg"
+  },
+  {
+    "title": "Maze Runner: The Death Cure",
+    "titlePt": "Maze Runner: A Cura Mortal",
+    "year": 2018,
+    "rating": 3.28,
+    "poster": "https://image.tmdb.org/t/p/w500/drbERzlA4cuRWhsTXfFOY4mRR4f.jpg"
+  },
+  {
+    "title": "Jurassic World",
+    "titlePt": "Jurassic World: O Mundo dos Dinossauros",
+    "year": 2015,
+    "rating": 3.16,
+    "poster": "https://image.tmdb.org/t/p/w500/rhr4y79GpxQF9IsfJItRXVaoGs4.jpg"
+  },
+  {
+    "title": "Sinister",
+    "titlePt": "A Entidade",
+    "year": 2012,
+    "rating": 3.38,
+    "poster": "https://image.tmdb.org/t/p/w500/nzx10sca3arCeYBAomHan4Q6wa1.jpg"
+  },
+  {
+    "title": "Avengers: Age of Ultron",
+    "titlePt": "Vingadores: Era de Ultron",
+    "year": 2015,
+    "rating": 3.26,
+    "poster": "https://image.tmdb.org/t/p/w500/4ssDuvEDkSArWEdyBl2X5EHvYKU.jpg"
+  },
+  {
+    "title": "Before I Fall",
+    "titlePt": "Antes Que Eu Vá",
+    "year": 2017,
+    "rating": 3.22,
+    "poster": "https://image.tmdb.org/t/p/w500/eowzonDJMCuNXoJGVkP9Z7oCmiM.jpg"
+  },
+  {
+    "title": "Frozen II",
+    "titlePt": "Frozen II",
+    "year": 2019,
+    "rating": 3.17,
+    "poster": "https://image.tmdb.org/t/p/w500/mINJaa34MtknCYl5AjtNJzWj8cD.jpg"
+  },
+  {
+    "title": "Cinderella",
+    "titlePt": "Cinderela",
+    "year": 2015,
+    "rating": 3.32,
+    "poster": "https://image.tmdb.org/t/p/w500/j91LJmcWo16CArFOoapsz84bwxb.jpg"
+  },
+  {
+    "title": "The Lovely Bones",
+    "titlePt": "Um Olhar do Paraíso",
+    "year": 2009,
+    "rating": 3.41,
+    "poster": "https://image.tmdb.org/t/p/w500/sn0iDphRxQ7I6aLd9igIgACITak.jpg"
+  },
+  {
+    "title": "Killer Klowns from Outer Space",
+    "titlePt": "Palhaços Assassinos do Espaço Sideral",
+    "year": 1988,
+    "rating": 3.38,
+    "poster": "https://image.tmdb.org/t/p/w500/lHdAk5T42ofyi3NTjmrdyR7xPmY.jpg"
+  },
+  {
+    "title": "Cruel Intentions",
+    "titlePt": "Segundas Intenções",
+    "year": 1999,
+    "rating": 3.25,
+    "poster": "https://image.tmdb.org/t/p/w500/76cCsRtQ5MJBAqoigojXsLXLJwh.jpg"
+  },
+  {
+    "title": "Evil Dead",
+    "titlePt": "A Morte do Demônio",
+    "year": 2013,
+    "rating": 3.4,
+    "poster": "https://image.tmdb.org/t/p/w500/1gDV0Lm9y8ufIKzyf0h0GBgb9Zj.jpg"
+  },
+  {
+    "title": "Scary Movie",
+    "titlePt": "Todo Mundo em Pânico",
+    "year": 2000,
+    "rating": 3.23,
+    "poster": "https://image.tmdb.org/t/p/w500/fVQFPRuw3yWXojYDJvA5EoFjUOY.jpg"
+  },
+  {
+    "title": "The Lorax",
+    "titlePt": "O Lorax: Em Busca da Trúfula Perdida",
+    "year": 2012,
+    "rating": 3.35,
+    "poster": "https://image.tmdb.org/t/p/w500/tePFnZFw5JvjwjQjaKkqDPNMLPU.jpg"
+  },
+  {
+    "title": "Eat Pray Love",
+    "titlePt": "Comer, Rezar, Amar",
+    "year": 2010,
+    "rating": 2.99,
+    "poster": "https://image.tmdb.org/t/p/w500/gjR5zUeMGV6UNqtI0OuzqrLQcjU.jpg"
+  },
+  {
+    "title": "Spider-Man: Far From Home",
+    "titlePt": "Homem-Aranha: Longe de Casa",
+    "year": 2019,
+    "rating": 3.4,
+    "poster": "https://image.tmdb.org/t/p/w500/4q2NNj4S5dG2RLF9CpXsej7yXl.jpg"
+  },
+  {
+    "title": "Wuthering Heights",
+    "titlePt": "“O Morro dos Ventos Uivantes”",
+    "year": 2026,
+    "rating": 2.73,
+    "poster": "https://image.tmdb.org/t/p/w500/3YBce6dTh1D5oCMITXk2S5QhPt.jpg"
+  },
+  {
+    "title": "Where the Crawdads Sing",
+    "titlePt": "Um Lugar Bem Longe Daqui",
+    "year": 2022,
+    "rating": 3.34,
+    "poster": "https://image.tmdb.org/t/p/w500/n1el846gLDXfhOvrRCsyvaAOQWv.jpg"
+  },
+  {
+    "title": "Dracula",
+    "titlePt": "Drácula - Uma História de Amor Eterno",
+    "year": 2025,
+    "rating": 3.13,
+    "poster": "https://image.tmdb.org/t/p/w500/dYRqA50yd0nB3qBR7AtWEJJQ8q.jpg"
+  },
+  {
+    "title": "The Mask",
+    "titlePt": "O Máskara",
+    "year": 1994,
+    "rating": 3.42,
+    "poster": "https://image.tmdb.org/t/p/w500/jPC2eYub74zwf2tPGVtzSlBW6Oy.jpg"
+  },
+  {
+    "title": "Pitch Perfect 2",
+    "titlePt": "A Escolha Perfeita 2",
+    "year": 2015,
+    "rating": 3.11,
+    "poster": "https://image.tmdb.org/t/p/w500/oFBQUufCV4c8WZoNhtGM17p884H.jpg"
+  },
+  {
+    "title": "Grown Ups 2",
+    "titlePt": "Gente Grande 2",
+    "year": 2013,
+    "rating": 2.9,
+    "poster": "https://image.tmdb.org/t/p/w500/hT6ijOtjtYrnyDhN7VA2QWyGFAm.jpg"
+  },
+  {
+    "title": "Enola Holmes 2",
+    "titlePt": "Enola Holmes 2",
+    "year": 2022,
+    "rating": 3.31,
+    "poster": "https://image.tmdb.org/t/p/w500/tegBpjM5ODoYoM1NjaiHVLEA0QM.jpg"
+  },
+  {
+    "title": "Lolita",
+    "titlePt": "Lolita",
+    "year": 1997,
+    "rating": 3.08,
+    "poster": "https://image.tmdb.org/t/p/w500/9INcC14WZjCMKGE360VXmklCLdZ.jpg"
+  },
+  {
+    "title": "Beau Is Afraid",
+    "titlePt": "Beau Tem Medo",
+    "year": 2023,
+    "rating": 3.42,
+    "poster": "https://image.tmdb.org/t/p/w500/wgVkkjigF31r1nZV80uV0xNIoun.jpg"
+  },
+  {
+    "title": "Dumb and Dumber",
+    "titlePt": "Debi & Lóide: Dois Idiotas em Apuros",
+    "year": 1994,
+    "rating": 3.38,
+    "poster": "https://image.tmdb.org/t/p/w500/4LdpBXiCyGKkR8FGHgjKlphrfUc.jpg"
+  },
+  {
+    "title": "High School Musical",
+    "titlePt": "High School Musical",
+    "year": 2006,
+    "rating": 3.32,
+    "poster": "https://image.tmdb.org/t/p/w500/1DGmWZjUJPeKGFRHGCA6VPFUBML.jpg"
+  },
+  {
+    "title": "Happy Gilmore",
+    "titlePt": "Um Maluco no Golfe",
+    "year": 1996,
+    "rating": 3.42,
+    "poster": "https://image.tmdb.org/t/p/w500/4RnCeRzvI1xk5tuNWjpDKzSnJDk.jpg"
+  },
+  {
+    "title": "World War Z",
+    "titlePt": "Guerra Mundial Z",
+    "year": 2013,
+    "rating": 3.21,
+    "poster": "https://image.tmdb.org/t/p/w500/aCnVdvExw6UWSeQfr0tUH3jr4qG.jpg"
+  },
+  {
+    "title": "Click",
+    "titlePt": "Click",
+    "year": 2006,
+    "rating": 2.99,
+    "poster": "https://image.tmdb.org/t/p/w500/oL0k5JA53PyoHSZqKb3cNkhwBCE.jpg"
+  },
+  {
+    "title": "Star Wars: Episode I – The Phantom Menace",
+    "titlePt": "Star Wars: Episódio I - A Ameaça Fantasma",
+    "year": 1999,
+    "rating": 3.13,
+    "poster": "https://image.tmdb.org/t/p/w500/6wkfovpn7Eq8dYNKaG5PY3q2oq6.jpg"
+  },
+  {
+    "title": "Anyone But You",
+    "titlePt": "Todos Menos Você",
+    "year": 2023,
+    "rating": 2.81,
+    "poster": "https://image.tmdb.org/t/p/w500/5qHoazZiaLe7oFBok7XlUhg96f2.jpg"
+  },
+  {
+    "title": "Scream VI",
+    "titlePt": "Pânico VI",
+    "year": 2023,
+    "rating": 3.35,
+    "poster": "https://image.tmdb.org/t/p/w500/wDWwtvkRRlgTiUr6TyLSMX8FCuZ.jpg"
+  },
+  {
+    "title": "The Twilight Saga: Breaking Dawn – Part 2",
+    "titlePt": "A Saga Crepúsculo: Amanhecer - Parte 2",
+    "year": 2012,
+    "rating": 2.97,
+    "poster": "https://image.tmdb.org/t/p/w500/7IGdPaKujv0BjI0Zd0m0a4CzEjJ.jpg"
+  },
+  {
+    "title": "It Chapter Two",
+    "titlePt": "IT: Capítulo Dois",
+    "year": 2019,
+    "rating": 2.93,
+    "poster": "https://image.tmdb.org/t/p/w500/zfE0R94v1E8cuKAerbskfD3VfUt.jpg"
+  },
+  {
+    "title": "Aquamarine",
+    "titlePt": "Aquamarine",
+    "year": 2006,
+    "rating": 3.4,
+    "poster": "https://image.tmdb.org/t/p/w500/8mioUyXqn60cwSoLrRCaO5ZAsCV.jpg"
+  },
+  {
+    "title": "Final Destination",
+    "titlePt": "Premonição",
+    "year": 2000,
+    "rating": 3.2,
+    "poster": "https://image.tmdb.org/t/p/w500/1mXhlQMnlfvJ2frxTjZSQNnA9Vp.jpg"
+  },
+  {
+    "title": "The Cabin in the Woods",
+    "titlePt": "O Segredo da Cabana",
+    "year": 2011,
+    "rating": 3.37,
+    "poster": "https://image.tmdb.org/t/p/w500/zZZe5wn0udlhMtdlDjN4NB72R6e.jpg"
+  },
+  {
+    "title": "Monte Carlo",
+    "titlePt": "Monte Carlo",
+    "year": 2011,
+    "rating": 3.37,
+    "poster": "https://image.tmdb.org/t/p/w500/dcbqyycrWA56HXq5lm41HYuED8Y.jpg"
+  },
+  {
+    "title": "Saw II",
+    "titlePt": "Jogos Mortais II",
+    "year": 2005,
+    "rating": 3.26,
+    "poster": "https://image.tmdb.org/t/p/w500/gTnaTysN8HsvVQqTRUh8m35mmUA.jpg"
+  },
+  {
+    "title": "Captain America: The First Avenger",
+    "titlePt": "Capitão América: O Primeiro Vingador",
+    "year": 2011,
+    "rating": 3.35,
+    "poster": "https://image.tmdb.org/t/p/w500/vSNxAJTlD0r02V9sPYpOjqDZXUK.jpg"
+  },
+  {
+    "title": "It Follows",
+    "titlePt": "Corrente do Mal",
+    "year": 2014,
+    "rating": 3.4,
+    "poster": "https://image.tmdb.org/t/p/w500/iwnQ1JH1wdWrGYkgWySptJ5284A.jpg"
+  },
+  {
+    "title": "The Bling Ring",
+    "titlePt": "Bling Ring: A Gangue de Hollywood",
+    "year": 2013,
+    "rating": 3.02,
+    "poster": "https://image.tmdb.org/t/p/w500/6yh55qCcdgPRJweDWM2CiEubJCL.jpg"
+  },
+  {
+    "title": "The Fall Guy",
+    "titlePt": "O Dublê",
+    "year": 2024,
+    "rating": 3.39,
+    "poster": "https://image.tmdb.org/t/p/w500/e7olqFmzcIX5c23kX4zSmLPJi8c.jpg"
+  }
+]

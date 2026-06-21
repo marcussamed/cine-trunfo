@@ -1,0 +1,217 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  * {
+    -webkit-tap-highlight-color: transparent;
+  }
+
+  html, body, #root {
+    height: 100%;
+    overflow: hidden;
+  }
+
+  body {
+    overflow-x: hidden;
+    -webkit-font-smoothing: antialiased;
+    background: #050508;
+  }
+
+  ::-webkit-scrollbar {
+    display: none;
+  }
+}
+
+@layer components {
+  /* Phone-frame container */
+  .game-frame {
+    width: 100%;
+    height: 100dvh;
+  }
+
+  @media (min-width: 500px) {
+    .game-frame {
+      width: 440px;
+      max-height: 900px;
+      height: 95vh;
+      border-radius: 24px;
+      border: 2px solid rgba(0, 212, 255, 0.15);
+      box-shadow:
+        0 0 60px rgba(0, 212, 255, 0.06),
+        0 0 120px rgba(0, 0, 0, 0.8);
+    }
+  }
+
+  .scanlines {
+    position: relative;
+  }
+
+  .scanlines::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: repeating-linear-gradient(
+      0deg,
+      transparent,
+      transparent 2px,
+      rgba(0, 0, 0, 0.06) 2px,
+      rgba(0, 0, 0, 0.06) 4px
+    );
+    pointer-events: none;
+    z-index: 50;
+    border-radius: inherit;
+  }
+
+  .vhs-card {
+    position: relative;
+    border: 2px solid rgba(0, 212, 255, 0.3);
+    border-radius: 8px;
+    overflow: hidden;
+    background: #1a1a2e;
+    transition: all 0.3s ease;
+  }
+
+  .vhs-card:active {
+    transform: scale(0.97);
+    border-color: rgba(0, 212, 255, 0.8);
+    box-shadow: 0 0 20px rgba(0, 212, 255, 0.3);
+  }
+
+  .vhs-card .tape-label {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: linear-gradient(transparent, rgba(0, 0, 0, 0.9));
+    padding: 28px 8px 8px;
+  }
+
+  .rental-sticker {
+    position: absolute;
+    top: 6px;
+    right: 6px;
+    background: #ff6b35;
+    color: white;
+    font-family: 'VT323', monospace;
+    font-size: 12px;
+    padding: 2px 6px;
+    border-radius: 2px;
+    transform: rotate(3deg);
+    z-index: 10;
+    line-height: 1.2;
+  }
+
+  .shelf-slot {
+    background: linear-gradient(135deg, #1a1a2e 0%, #12121a 100%);
+    border: 2px dashed rgba(0, 212, 255, 0.2);
+    border-radius: 6px;
+    transition: all 0.3s ease;
+  }
+
+  .shelf-slot.filled {
+    border-style: solid;
+    border-color: rgba(0, 212, 255, 0.4);
+  }
+
+  .neon-text {
+    text-shadow:
+      0 0 7px rgba(0, 212, 255, 0.6),
+      0 0 20px rgba(0, 212, 255, 0.3);
+  }
+
+  .neon-magenta {
+    text-shadow:
+      0 0 7px rgba(255, 0, 170, 0.6),
+      0 0 20px rgba(255, 0, 170, 0.3);
+  }
+
+  .grain {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    pointer-events: none;
+    z-index: 49;
+    opacity: 0.035;
+    border-radius: inherit;
+    background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noise'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noise)'/%3E%3C/svg%3E");
+  }
+
+  .star-rating {
+    display: inline-flex;
+    gap: 1px;
+    align-items: center;
+  }
+
+  .tracking-reveal {
+    animation: trackingReveal 1s ease-out forwards;
+  }
+
+  @keyframes trackingReveal {
+    0% {
+      clip-path: inset(0 0 100% 0);
+      filter: blur(8px) saturate(2);
+      transform: translateY(-8px);
+    }
+    20% {
+      clip-path: inset(0 0 60% 0);
+      filter: blur(4px) saturate(1.5);
+    }
+    50% {
+      clip-path: inset(0 0 20% 0);
+      filter: blur(2px);
+      transform: translateY(2px);
+    }
+    70% {
+      clip-path: inset(0 0 5% 0);
+      filter: blur(0.5px);
+    }
+    100% {
+      clip-path: inset(0);
+      filter: blur(0);
+      transform: translateY(0);
+    }
+  }
+
+  .vhs-timer-bar {
+    background: linear-gradient(90deg, #00d4ff 0%, #00fff5 50%, #00d4ff 100%);
+    box-shadow: 0 0 6px rgba(0, 212, 255, 0.4);
+  }
+
+  .vhs-timer-urgent {
+    background: linear-gradient(90deg, #ff4466 0%, #ff6b35 50%, #ff4466 100%);
+    box-shadow: 0 0 8px rgba(255, 68, 102, 0.5);
+    animation: timerPulse 0.5s ease-in-out infinite;
+  }
+
+  .shelf-slot-timeout {
+    border-style: dashed !important;
+    border-color: rgba(255, 68, 102, 0.3) !important;
+    background: rgba(255, 68, 102, 0.05) !important;
+  }
+
+  @keyframes timerPulse {
+    0%, 100% { opacity: 1; }
+    50% { opacity: 0.7; }
+  }
+
+  @keyframes trackingLine {
+    0% {
+      opacity: 0.7;
+      transform: scaleX(1);
+    }
+    40% {
+      opacity: 0.4;
+      transform: scaleX(0.7);
+    }
+    100% {
+      opacity: 0;
+      transform: scaleX(0);
+    }
+  }
+}
